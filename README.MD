@@ -1,8 +1,3 @@
-#+TITLE: 沁园春·雪
-#+AUTHOR: CONGPEITONG
-#+EMAIL: congpeitong2022@163.com
-
-
 *北国风光，千里冰封，万里雪飘。*
 
 *望长城内外，惟余莽莽；大河上下，顿失滔滔。*
